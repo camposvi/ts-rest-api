@@ -1,0 +1,13 @@
+node_modules
+dist
+build
+coverage
+.idea
+.vscode
+*.min.js
+*.bundle.js
+.yarn
+.pnp.*
+.DS_Store
+.git
+.husky
